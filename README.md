@@ -5,7 +5,18 @@ The objective of this project is to develop a traffic light control system using
 Demonstration Video <a href="https://youtu.be/iB-ycT9aWPk">link</a>
 
 ## Contents
-
+- [Softwares Used](#softwares-used)
+- [Description](#description)
+- [Extra Features](#extra-features)
+- [State Diagram](#state-diagram)
+- [Description of States](#description-of-states)
+- [Flowchart](#flowchart)
+- [Emergency condition](#emergency-condition)
+- [Jam Condition](#jam-condition)
+- [Verilog Code](#verilog-code)
+- [Timing Diagram](#timing-diagram)
+- [Hardware Simulation](#hardware-simulation)
+- [Team](#team)
 ## Softwares Used
 - Quartus
 - Proteus
