@@ -4,7 +4,10 @@ The objective of this project is to develop a traffic light control system using
 
 ## Contents
 
-
+## Softwares Used
+- Quartus
+- Proteus
+- Ardunio IDE
 ## Description
 There are four roads: East, North, West, South. The green light will go on
 circularly in the counter-clockwise direction. The green light will remain on for 20
