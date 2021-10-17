@@ -11,7 +11,8 @@ Demonstration Video <a href="https://youtu.be/iB-ycT9aWPk">link</a>
 - Proteus
 - Ardunio IDE
 ## Description
-***
+
+![image](https://user-images.githubusercontent.com/66994793/137629692-5ba072a1-e0c2-4308-bfcd-a7216ac2f78e.png)
 
 There are four roads: East, North, West, South. The green light will go on
 circularly in the counter-clockwise direction. The green light will remain on for 20
@@ -30,7 +31,7 @@ There are three extra features in this system:
 
 ## State Diagram
 
-***
+![image](https://user-images.githubusercontent.com/66994793/137629964-beb3422e-b55c-49ba-884a-b7ff5520b478.png)
 There are eight states in the state diagram which are green and yellow states for each road. In the green state of a road, only that road will be green, others will be red. The system will remain for 20 seconds in this state. In the yellow state of a road, the corresponding road will be yellow, the next road to be green will be red-yellow and others will be red. The system will remain for 4 seconds in this state. The states of the system will rotate as shown in the figure.
 ## Description of States
 <p align="center">
@@ -43,7 +44,8 @@ There are eight states in the state diagram which are green and yellow states fo
 
 
 ## Flowchart
-***
+![image](https://user-images.githubusercontent.com/66994793/137631829-ec61c4d3-0b06-40ca-9c14-4423099af11b.png)
+
 In the flowchart, we can see how the logical part of the program will work. At first, the program will check if there is an emergency on any of the roads. If there is, then the system will switch to the green state of that road immediately. If there is no emergency on any road, then it will check if there is a jam on any road and act similarly as an emergency condition. After this, the program will check if the present state is green or yellow. If it is green, then it will check if the road is empty or 20 seconds have passed or not. If yes, then it will move to the yellow of the corresponding road and continue the loop, otherwise, it will remain in the green state. If the present state is yellow, then the program will check if 4 seconds have passed or not. If yes, then it will move to the green of the next road and continue the loop, otherwise, it will remain in a yellow state. 
 ## Emergency condition
 
