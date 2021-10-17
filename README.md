@@ -64,6 +64,7 @@ Similarly, the jam condition is implemented using a 4-bit variable Jam. It’s o
 ## Verilog Code
 ## Timing Diagram
 ## Hardware Simulation
+We have used an Arduino Mega board to carry out our hardware simulation in Proteus.
 ### Schematics
 ### Arduino Code explanation using snippets
 
