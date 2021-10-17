@@ -2,6 +2,8 @@
 The objective of this project is to develop a traffic light control system using Verilog and Proteus. The algorithm for doing this is based on Finite State Machine
 (FSM) .
 
+Demonstration Video <a href="https://youtu.be/iB-ycT9aWPk">link</a>
+
 ## Contents
 
 ## Softwares Used
