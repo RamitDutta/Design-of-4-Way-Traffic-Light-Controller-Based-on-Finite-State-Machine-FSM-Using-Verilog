@@ -71,7 +71,9 @@ The emergency condition is implemented by using a 4-bit variable named Emergency
 Similarly, the jam condition is implemented using a 4-bit variable Jam. It’s operation is like that of the emergency condition.
 
 ## Verilog Code
+<a href="Verilog%20Code/traffic_light_controller.v">Code</a>
 ## Timing Diagram
+<a href="Verilog%20Code/traffic_light_controller.vwf">Vector Waveform</a>
 ## Hardware Simulation
 We have used an Arduino Mega board to carry out our hardware simulation in Proteus.
 ### Schematics
