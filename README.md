@@ -18,7 +18,17 @@ up and the next road to be green will be in a red-yellow state to caution the
 drivers. The system will be in this state for 4 seconds. There are also sensors in
 each road which will determine if there is a jam, emergency in the road or if the
 road is empty.
-
+## Extra Features
+## State Diagram
+## Description of States
+## Flowchart
+## Emergency condition
+## Jam Condition
+## Verilog Code
+## Timing Diagram
+## Hardware Simulation
+### Schematics
+### Arduino Code explanation using snippets
 
 ## Team
 - Ramit Dutta (github - https://github.com/RamitDutta)
